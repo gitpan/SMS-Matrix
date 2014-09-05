@@ -1,0 +1,16 @@
+Changes
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+README
+dist.ini
+lib/SMS/Matrix.pm
+t/00-load.t
+t/01-send-sms-success.t
+t/02-send-sms-error.t
+t/03-get-balance-success.t
+t/04-get-balance-error.t
+t/boilerplate.t
+t/pod-coverage.t
+t/pod.t
