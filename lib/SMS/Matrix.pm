@@ -10,7 +10,7 @@ use HTTP::Request::Common;
 use JSON();
 ## use Data::Dumper;
 
-our $VERSION = '1.00';
+our $VERSION = '1.01';
 
 ####################################################
 
@@ -377,12 +377,6 @@ L<http://www.smsmatrix.com>
 
 =back
 
-=head1 COPYRIGHT & LICENSE
-
-Copyright 2009 Daniel Rokosz
-
-This program is released under the following license: artistic_2
-
 =head1 AUTHOR
 
 Daniel Rokosz <daniel@smsmatrix.com>
@@ -390,9 +384,7 @@ Daniel Rokosz <daniel@smsmatrix.com>
 =head1 COPYRIGHT AND LICENSE
 
 This software is Copyright (c) 2009 by Daniel Rokosz.
-
 This is free software, licensed under:
-
   The Artistic License 2.0 (GPL Compatible)
 
 =cut

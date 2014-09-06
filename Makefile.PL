@@ -24,7 +24,7 @@ my %WriteMakefileArgs = (
     "JSON::PP" => "2.26000",
     "LWP::UserAgent" => "5.835"
   },
-  "VERSION" => "1.00",
+  "VERSION" => "1.01",
   "test" => {
     "TESTS" => "t/*.t"
   }
